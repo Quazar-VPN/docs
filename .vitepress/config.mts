@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Quazar",
   description: "Knowledge base",
+  outDir: './dist',
   locales: {
     root: {
       label: "English",
