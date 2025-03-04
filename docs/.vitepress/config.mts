@@ -7,8 +7,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Telegram Bot', link: 'https://t.me/quazar_accessbot' },
+      { text: 'Status', link: 'https://status.quazar.icu/status/quazar' }
     ],
 
     sidebar: [
@@ -19,10 +19,6 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
 })
