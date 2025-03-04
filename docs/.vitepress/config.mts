@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import lightbox from "vitepress-plugin-lightbox"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -10,16 +11,15 @@ export default defineConfig({
       lang: 'en',
       link: '/en'
     },
-    fr: {
+    ru: {
       label: '🇷🇺 Русский',
       lang: 'ru',
-      link: '/ru'
     }
   },
   lang: 'en-US',
   head: [
     ['link',
-      { rel: 'icon', href: '/images/favicon.ico' }
+      { rel: 'icon', href: '/assets/favicon.ico' }
     ]
   ],
   themeConfig: {
@@ -51,5 +51,11 @@ export default defineConfig({
         ]
       },
     ]
-  }
+  },
+  markdown: {
+    config: (md) => {
+      // Use lightbox plugin
+      md.use(lightbox, {});
+    },
+  },
 })

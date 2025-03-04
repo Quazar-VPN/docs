@@ -6,12 +6,12 @@ hero:
   text: "Knowledge base"
   tagline: The next generation service for seamless internet access without blocking and restrictions
   image:
-      src: /images/logo.png
+      src: /assets/logo.png
       alt: Quazar
   actions:
     - theme: brand
       text: Старт
-      link: /en/guides/getting-started
+      link: /en/getting-started/add-sub
 
 features:
   - title: Speed of Light

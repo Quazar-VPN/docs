@@ -6,12 +6,12 @@ hero:
   text: "База знаний"
   tagline: Сервис нового поколения для беспрепятственного доступа к интернету без блокировок и ограничений
   image:
-      src: /images/logo.png
+      src: /assets/logo.png
       alt: Quazar
   actions:
     - theme: brand
       text: Старт
-      link: /ru/getting-started
+      link: /ru/getting-started/
 
 features:
   - title: Высокая скорость соединения
