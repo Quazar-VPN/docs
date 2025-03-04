@@ -6,11 +6,11 @@ hero:
   text: "Knowledge base"
   tagline: The next generation service for seamless internet access without blocking and restrictions
   image:
-      src: /assets/logo.png
+      src: /logo.png
       alt: Quazar
   actions:
     - theme: brand
-      text: Старт
+      text: Start
       link: /en/getting-started/add-sub
 
 features:

@@ -6,7 +6,7 @@ hero:
   text: "База знаний"
   tagline: Сервис нового поколения для беспрепятственного доступа к интернету без блокировок и ограничений
   image:
-      src: /assets/logo.png
+      src: /logo.png
       alt: Quazar
   actions:
     - theme: brand

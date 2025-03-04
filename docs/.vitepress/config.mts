@@ -19,7 +19,7 @@ export default defineConfig({
   lang: 'en-US',
   head: [
     ['link',
-      { rel: 'icon', href: '/assets/favicon.ico' }
+      { rel: 'icon', href: '/favicon.ico' }
     ]
   ],
   themeConfig: {

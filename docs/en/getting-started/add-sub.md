@@ -11,7 +11,7 @@ To add a VPN to apps you first need to get your personalized link in the [Quazar
 ## Activate Android (Happ)
 1. Download [Happ from Google Play​](https://play.google.com/store/apps/details?id=com.happproxy)
 2. Open Happ and follow video (click to zoom in)
-![Android - Happ](../../assets/docs/add-sub/happ.gif){width=200px}
+![Android - Happ](../../assets/add-sub/happ.gif){width=200px}
 
 ## Activate iOS (Happ)
 1. Download [Happ from AppStore​](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215)
@@ -20,4 +20,4 @@ To add a VPN to apps you first need to get your personalized link in the [Quazar
 ## Activate Windows (NekoBox)
 1. Download [Happ from AppStore​](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215)
 2. Open Happ and follow video (click to zoom in)
-![Windows - NekoBox](../../assets/docs/add-sub/nekobox.gif)
+![Windows - NekoBox](../../assets/add-sub/nekobox.gif)
