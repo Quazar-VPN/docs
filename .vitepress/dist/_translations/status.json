@@ -1,0 +1,242 @@
+[
+  {
+    "sharedPath": "docs/en/guides/getting-started.md",
+    "sourceFile": {
+      "lang": "en",
+      "sharedPath": "docs/en/guides/getting-started.md",
+      "path": "docs/en/guides/getting-started.md",
+      "isLocalizable": true,
+      "git": {
+        "lastChange": "2025-03-04T17:03:57.000Z",
+        "lastCommitMessage": "refactor: :recycle: Make basic configs for vitepress",
+        "lastCommitHash": "c6692f0b895a98efc22c260ce4c264982a9b0d14",
+        "lastMajorChange": "2025-03-04T17:03:57.000Z",
+        "lastMajorCommitMessage": "refactor: :recycle: Make basic configs for vitepress",
+        "lastMajorCommitHash": "c6692f0b895a98efc22c260ce4c264982a9b0d14"
+      },
+      "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/blob/main/docs\\docs\\en\\guides\\getting-started.md",
+      "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\getting-started.md",
+      "pattern": "@lang/@path",
+      "meta": {
+        "type": "universal"
+      }
+    },
+    "localizations": {
+      "ru": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\ru\\docs\\en\\guides\\getting-started.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\getting-started.md"
+      },
+      "uk": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\uk\\docs\\en\\guides\\getting-started.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\getting-started.md"
+      },
+      "fa": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\fa\\docs\\en\\guides\\getting-started.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\getting-started.md"
+      }
+    }
+  },
+  {
+    "sharedPath": "docs/en/guides/welcome.md",
+    "sourceFile": {
+      "lang": "en",
+      "sharedPath": "docs/en/guides/welcome.md",
+      "path": "docs/en/guides/welcome.md",
+      "isLocalizable": true,
+      "git": {
+        "lastChange": "2025-03-04T17:03:57.000Z",
+        "lastCommitMessage": "refactor: :recycle: Make basic configs for vitepress",
+        "lastCommitHash": "c6692f0b895a98efc22c260ce4c264982a9b0d14",
+        "lastMajorChange": "2025-03-04T17:03:57.000Z",
+        "lastMajorCommitMessage": "refactor: :recycle: Make basic configs for vitepress",
+        "lastMajorCommitHash": "c6692f0b895a98efc22c260ce4c264982a9b0d14"
+      },
+      "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/blob/main/docs\\docs\\en\\guides\\welcome.md",
+      "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\welcome.md",
+      "pattern": "@lang/@path",
+      "meta": {
+        "type": "universal"
+      }
+    },
+    "localizations": {
+      "ru": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\ru\\docs\\en\\guides\\welcome.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\welcome.md"
+      },
+      "uk": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\uk\\docs\\en\\guides\\welcome.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\welcome.md"
+      },
+      "fa": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\fa\\docs\\en\\guides\\welcome.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\guides\\welcome.md"
+      }
+    }
+  },
+  {
+    "sharedPath": "docs/en/index.md",
+    "sourceFile": {
+      "lang": "en",
+      "sharedPath": "docs/en/index.md",
+      "path": "docs/en/index.md",
+      "isLocalizable": true,
+      "git": {
+        "lastChange": "2025-03-03T20:43:12.000Z",
+        "lastCommitMessage": "First release",
+        "lastCommitHash": "58e5cc386c0b2660da7c32128017822d7773615b",
+        "lastMajorChange": "2025-03-03T20:43:12.000Z",
+        "lastMajorCommitMessage": "First release",
+        "lastMajorCommitHash": "58e5cc386c0b2660da7c32128017822d7773615b"
+      },
+      "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/blob/main/docs\\docs\\en\\index.md",
+      "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\index.md",
+      "pattern": "@lang/@path",
+      "meta": {
+        "type": "universal"
+      }
+    },
+    "localizations": {
+      "ru": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\ru\\docs\\en\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\index.md"
+      },
+      "uk": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\uk\\docs\\en\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\index.md"
+      },
+      "fa": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\fa\\docs\\en\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\en\\index.md"
+      }
+    }
+  },
+  {
+    "sharedPath": "docs/index.md",
+    "sourceFile": {
+      "lang": "en",
+      "sharedPath": "docs/index.md",
+      "path": "docs/index.md",
+      "isLocalizable": true,
+      "git": {
+        "lastChange": "2025-03-04T17:03:57.000Z",
+        "lastCommitMessage": "refactor: :recycle: Make basic configs for vitepress",
+        "lastCommitHash": "c6692f0b895a98efc22c260ce4c264982a9b0d14",
+        "lastMajorChange": "2025-03-04T17:03:57.000Z",
+        "lastMajorCommitMessage": "refactor: :recycle: Make basic configs for vitepress",
+        "lastMajorCommitHash": "c6692f0b895a98efc22c260ce4c264982a9b0d14"
+      },
+      "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/blob/main/docs\\docs\\index.md",
+      "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\index.md",
+      "pattern": "@lang/@path",
+      "meta": {
+        "type": "universal"
+      }
+    },
+    "localizations": {
+      "ru": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\ru\\docs\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\index.md"
+      },
+      "uk": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\uk\\docs\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\index.md"
+      },
+      "fa": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\fa\\docs\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\index.md"
+      }
+    }
+  },
+  {
+    "sharedPath": "docs/ru/guides/getting-started.md",
+    "sourceFile": {
+      "lang": "en",
+      "sharedPath": "docs/ru/guides/getting-started.md",
+      "path": "docs/ru/guides/getting-started.md",
+      "isLocalizable": true,
+      "git": {
+        "lastChange": "2025-03-03T20:43:12.000Z",
+        "lastCommitMessage": "First release",
+        "lastCommitHash": "58e5cc386c0b2660da7c32128017822d7773615b",
+        "lastMajorChange": "2025-03-03T20:43:12.000Z",
+        "lastMajorCommitMessage": "First release",
+        "lastMajorCommitHash": "58e5cc386c0b2660da7c32128017822d7773615b"
+      },
+      "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/blob/main/docs\\docs\\ru\\guides\\getting-started.md",
+      "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\guides\\getting-started.md",
+      "pattern": "@lang/@path",
+      "meta": {
+        "type": "universal"
+      }
+    },
+    "localizations": {
+      "ru": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\ru\\docs\\ru\\guides\\getting-started.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\guides\\getting-started.md"
+      },
+      "uk": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\uk\\docs\\ru\\guides\\getting-started.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\guides\\getting-started.md"
+      },
+      "fa": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\fa\\docs\\ru\\guides\\getting-started.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\guides\\getting-started.md"
+      }
+    }
+  },
+  {
+    "sharedPath": "docs/ru/index.md",
+    "sourceFile": {
+      "lang": "en",
+      "sharedPath": "docs/ru/index.md",
+      "path": "docs/ru/index.md",
+      "isLocalizable": true,
+      "git": {
+        "lastChange": "2025-03-03T20:43:12.000Z",
+        "lastCommitMessage": "First release",
+        "lastCommitHash": "58e5cc386c0b2660da7c32128017822d7773615b",
+        "lastMajorChange": "2025-03-03T20:43:12.000Z",
+        "lastMajorCommitMessage": "First release",
+        "lastMajorCommitHash": "58e5cc386c0b2660da7c32128017822d7773615b"
+      },
+      "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/blob/main/docs\\docs\\ru\\index.md",
+      "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\index.md",
+      "pattern": "@lang/@path",
+      "meta": {
+        "type": "universal"
+      }
+    },
+    "localizations": {
+      "ru": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\ru\\docs\\ru\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\index.md"
+      },
+      "uk": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\uk\\docs\\ru\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\index.md"
+      },
+      "fa": {
+        "isMissing": true,
+        "gitHostingFileURL": "https://github.com/Quazar-VPN/docs/new/main?filename=docs\\fa\\docs\\ru\\index.md",
+        "gitHostingHistoryURL": "https://github.com/Quazar-VPN/docs/commits/main/docs\\docs\\ru\\index.md"
+      }
+    }
+  }
+]
