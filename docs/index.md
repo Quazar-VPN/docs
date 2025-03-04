@@ -10,7 +10,7 @@ hero:
       alt: Quazar
   actions:
     - theme: brand
-      text: Старт
+      text: Start
       link: /en/guides/getting-started
 
 features:
