@@ -14,6 +14,14 @@ export default defineConfig({
     ru: {
       label: '🇷🇺 Русский',
       lang: 'ru',
+    },
+    uk: {
+      label: '🇺🇦 Український',
+      lang: 'uk',
+    },
+    fa: {
+      label: '🇮🇷 فارسی',
+      lang: 'fa',
     }
   },
   lang: 'en-US',
