@@ -1,3 +1,32 @@
-node_modules
-docs/.vitepress/dist
-docs/.vitepress/cache
+# dependencies
+/node_modules
+
+# builds
+/docs/.vitepress/cache
+/docs/.vitepress/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor related
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: if you are using pnpm
+bun.lock
