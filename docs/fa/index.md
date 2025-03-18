@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: شروع
-      link: /fa/getting-started/
+      link: /fa/getting-started/add-sub
 
 features:
   - title: سرعت بالای اتصال

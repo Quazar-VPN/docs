@@ -126,6 +126,7 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
+    logo: '/logo.png',
     nav: [
       { text: 'Telegram Bot', link: 'https://t.me/quazar_accessbot' },
       { text: 'Status', link: 'https://status.quazar.icu/status/quazar' }
