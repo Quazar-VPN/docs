@@ -11,11 +11,12 @@ description: Here you can find instructions on how to add a subscription to the 
 ## Активация на Android (Happ)
 1. Скачайте [Happ из Google Play](https://play.google.com/store/apps/details?id=com.happproxy).
 2. Откройте Happ и следуйте видеоинструкции (нажмите для увеличения).  
-   ![Android - Happ](../../assets/add-sub/ru-happ.gif){width=200px}
-
+![Android - Happ](../../assets/add-sub/ru-happ-android.gif){width=200px}
+   
 ## Активация на iOS (Happ)
 1. Скачайте [Happ из AppStore](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215).
 2. Откройте Happ и следуйте видеоинструкции (нажмите для увеличения).
+![iOS - Happ](../../assets/add-sub/ru-happ-ios.gif){width=200px}
 
 ## Активация на Windows (NekoBox)
 1. Скачайте [NekoBox для Windows](https://github.com/MatsuriDayo/NekoBoxForWindows/releases).
