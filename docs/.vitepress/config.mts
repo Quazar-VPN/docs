@@ -3,7 +3,7 @@ import {defineConfig} from 'vitepress'
 import lightbox from "vitepress-plugin-lightbox"
 
 export default defineConfig({
-    title: "Quazar", description: "Knowledge base", locales: {
+    title: "Quazar", description: "Knowledge base", cleanUrls: true, locales: {
         root: {
             label: '🇬🇧 English', lang: 'en', link: '/en', themeConfig: {
                 nav: [{text: 'Telegram Bot', link: 'https://t.me/quazar_accessbot'}, {
@@ -17,7 +17,7 @@ export default defineConfig({
                         text: '🕹️ Modes', link: '/en/advanced/modes'
                     }]
                 }, {
-                    text: 'Rules', items: [{text: '📜 Terms of use', link: '/en/rules/terms-of-use'},]
+                    text: 'Rules', items: [{text: '🤝 Partnership', link: '/en/rules/partnership'},  {text: '📜 Terms of use', link: '/en/rules/terms-of-use'},]
                 },]
             }
         }, ru: {
@@ -33,7 +33,7 @@ export default defineConfig({
                         text: '🕹️ Режимы', link: '/ru/advanced/modes'
                     }]
                 }, {
-                    text: 'Правила', items: [{text: '📜 Условия использования', link: '/ru/rules/terms-of-use'},]
+                    text: 'Правила', items: [{text: '🤝 Сотрудничество', link: '/ru/rules/partnership'},  {text: '📜 Условия использования', link: '/ru/rules/terms-of-use'},]
                 },]
             }
         },
