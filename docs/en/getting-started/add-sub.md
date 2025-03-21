@@ -11,7 +11,7 @@ To add a VPN to apps, you first need to get your personalized link in the [Quaza
 ## Activate Android (Happ)
 1. Download [Happ from Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 2. Open Happ and follow video (click to zoom in)
-![Android - Happ](../../assets/add-sub/happ.gif){width=200px}
+![Android - Happ](../../assets/add-sub/en-happ.gif){width=200px}
 
 ## Activate iOS (Happ)
 1. Download [Happ from AppStore](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215)
